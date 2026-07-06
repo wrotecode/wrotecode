@@ -1,3 +1,12 @@
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wrotecode/wrotecode/output/commit-invaders-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wrotecode/wrotecode/output/commit-invaders.svg">
+  <img alt="Commit Invaders" src="https://raw.githubusercontent.com/wrotecode/wrotecode/output/commit-invaders.svg" width="100%">
+</picture>
+
+
+
 # 💫 About Me:
   # Hey, I'm Pallavi 👩‍💻✨  <br><br>🌟 A curious learner, a builder at heart, and someone who believes technology is just another form of art.  <br>💻 I enjoy turning small ideas into projects and watching them grow step by step.  <br>🎓 Currently studying at **Gandhinagar University** and **IIT MADRAS**, where I’m sharpening my skills in tech and problem-solving.   <br>🌱 I love experimenting with code, exploring open-source, and finding new ways to solve problems.  <br>🎶 Outside of code, I enjoy music, creativity, and finding inspiration in everyday things.  <br>
 
